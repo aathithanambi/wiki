@@ -6,3 +6,6 @@
     
 
 # localhost:3000
+
+
+Docker compose file for wiki
